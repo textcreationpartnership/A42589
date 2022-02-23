@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Pierce his preaching exemplified in his practice. Or, An antidote to the poison of a surrilous [sic] and libellous pamphlet sent by N.G. to a friend in London, and printed without license In a letter from a friend of truth and justice unto a worthy divine of Cambridge.</title>
+            <author>N. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42589</idno>
+            <idno type="STC">Wing G48</idno>
+            <idno type="STC">ESTC R217412</idno>
+            <idno type="EEBO-CITATION">99829079</idno>
+            <idno type="PROQUEST">99829079</idno>
+            <idno type="VID">33515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Pierce his preaching exemplified in his practice. Or, An antidote to the poison of a surrilous [sic] and libellous pamphlet sent by N.G. to a friend in London, and printed without license In a letter from a friend of truth and justice unto a worthy divine of Cambridge.</title>
+                  <author>N. G.</author>
+                  <author>J. F. aut</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>Signed at end: J. F.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pierce, Thomas, 1622-1691 --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33515:1" rendition="simple:additions"/>
+            <p>Dr. Pierce HIS PREACHING Exemplified in HIS PRACTICE. OR, An Antidote to the poiſon of a ſurrilous and Libellous Pamphlet <hi>Sent by</hi> N. G. <hi>to a Friend in</hi> London, and Printed without Licenſe.</p>
+            <p>
+               <hi>In a Letter from a Friend of Truth and Juſtice unto a worthy Divine of</hi> Cambrige.</p>
+            <p>Printed in the year 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33515:2"/>
+            <pb n="1" facs="tcp:33515:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I am yet a ſtranger to your Perſon, I have heard ſo much of your Integrity and candour, and zeal for God and all good men, that I cannot but believe you will think your ſelf con<g ref="char:EOLhyphen"/>cern'd in the news which at preſent I mean to ſend you. It will ſuggeſt an opportunity of doing ſome right to the no<g ref="char:EOLhyphen"/>leſs injured then excellent D<hi rend="sup">r</hi>. <hi>Pierce,</hi> Preſident of S. <hi>Mary Magdalen</hi> College in <hi>Oxford.</hi> How great a bleſſing his Example and Government have been unto that flouriſhing Foundation, ſince his Prince's favour and his own emi<g ref="char:EOLhyphen"/>nency of merit fix'd him there, they that envied all have been ſo unable to conceal, that attempting oft to find a fault, where their utmoſt malice had not wit enough to deſcry one, they thought fit at laſt to accuſe his vertues, and in ſtead of blaſting his matchleſs reputation, have by that very project undone their own. The <hi>Terrae Filii</hi> (who miſtake it for a part of their office to revile Authority, and be factiouſly Scurrilous,) had a deſign to traduce him this laſt <hi>Act,</hi> (as they did, to ſome purpoſe, many more of great Rank, beſides the <hi>King</hi> himſelf, and my <hi>Lord</hi> of <hi>London.</hi>) But the one of them was ſo loudly hiſt and exploded for his paines, that we could not well underſtand by what he had a mind to expoſe himſelf. The other, with an impudence great as his profanation, in a place no leſs Sacred then S. <hi>Mary</hi>'s Church, and before an aſſembly of both <hi>Univerſities,</hi> and other perſons of quality, ſpoiled the <hi>Ballad</hi> I am here incloſing, by turning ſuch plain <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+               <pb n="2" facs="tcp:33515:3"/>into worſe <hi>Latin,</hi> and not fearing to abuſe the <hi>Text</hi> and <hi>Sermon</hi> both together, ſtill concluded his ribaldry with an <hi>[Ab initio non fuit Sic.]</hi> Ought it not to be for a lamen<g ref="char:EOLhyphen"/>tation, that a <hi>Sermon</hi> made publick by moſt expreſs com<g ref="char:EOLhyphen"/>mand from his <hi>Majeſtie,</hi> and for its extraordinary worth and uſefuleſs tranſlated into foreign languages, &amp; coun<g ref="char:EOLhyphen"/>treys abroad, ſhould be thus ſet up as a Mark at home, for moſt unclean &amp; invenom'd Tongues to ſhoot their arrows at (even bitter words,) whilſt the <hi>Romaniſts</hi> themſelves were but examining their quiver for much more civil and Chriſtian Shafts? That God's Word and Servant ſhould be thus blaſphemouſly trampled on by Profeſſors of the Re<g ref="char:EOLhyphen"/>ligion they preſume ſo to ſhame, and reſolve to wound through one of it's ſtouteſt Champion's ſides, rather then allow him the barely-juſt honour of having preach't and publiſh't it's vindication? Others there are, who madly ſpurning at the bonds which they know not how to break or to caſt off from them, are ſo vext at the ſtrictneſs of his impartial and Chriſtian diſcipline, that (like the proud enraged waters, ſtill foaming againſt the Banks which reſtrain their Inſolency,) finding how much he hath leſſen'd the Drunkard's company, they would needs make him their Song, and be reveng'd upon him in rhyme. So much of it as hath been gathered piece-meale, I here preſent unto your view; when I ſhall firſt have aſſur'd you, that the cutting down of the <hi>Walnut-Tree,</hi> objected in the fourth Stanza, was not by command of the <hi>Preſident,</hi> but, without his knowledge, by order of the <hi>Burſars,</hi> (who are entruſted by the <hi>College</hi> with affaires of that nature;) much leſs is the <hi>Bowling-green</hi> made a <hi>Turnip-garden</hi> (as ſome <hi>Cambridge</hi>-men and others, whoſe curioſity was tempted by the confi<g ref="char:EOLhyphen"/>dence of that report, to let their own eyes undeceive them, can abundantly teſtify:) though (for very weighty
+<pb n="3" facs="tcp:33515:3"/>reaſons, and upon ſerious deliberation,) it was voted down by the farr major part of the whole Society; which is the very ſame power that does commonly leaſe out the <hi>Colledge Lands,</hi> and ſure much rather may freely diſpoſe of their Recreations. All elſe here mentioned (by ſuch as have hated to be reform'd, and would not chuſe the fear of the Lord,) was apparently done in ſuch perfect conformity to the <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> of the <hi>College,</hi> the <hi>Canons</hi> of the <hi>Church,</hi> and the <hi>Law</hi> of the <hi>Land,</hi> that if I had not before told you ſo, you would have concluded this charge to have proceeded either from the <hi>Ale-houſe,</hi> or the <hi>Antipodes.</hi> And therefore I leave you for a while, to reade and pitty theſe <hi>Poetaſters,</hi> who thus have gratified the <hi>Papiſts,</hi> and ſham'd themſelves.</p>
+            <lg>
+               <l>
+                  <hi>NEar to the</hi> Ford <hi>or'e which an Aſſe,</hi>
+               </l>
+               <l>
+                  <hi>Or an</hi> Ox <hi>at leaſt did paſs,</hi>
+               </l>
+               <l>
+                  <hi>And where the once bleſs't</hi> Magdalen</l>
+               <l>
+                  <hi>A</hi> Sinner <hi>is</hi> poſſeſs't <hi>agen,</hi>
+               </l>
+               <l>
+                  <hi>The man that ſets up Innovation</hi>
+               </l>
+               <l>
+                  <hi>By th'</hi> Primitive Rule of Reformation,</l>
+               <l>
+                  <hi>And</hi> preach't <hi>down</hi> Poperie <hi>too in hope</hi>
+               </l>
+               <l>
+                  <hi>To be in time</hi> Himſelf <hi>a</hi> Pope,</l>
+               <l>
+                  <hi>Makes new Religious Modes to grow,</hi>
+               </l>
+               <l>
+                  <hi>Which</hi> from the Beginning were nothing So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Demyes, and Fellows too, they ſay,</hi>
+               </l>
+               <l>
+                  <hi>Are in the Chappel brought to pray,</hi>
+               </l>
+               <l>
+                  <hi>As often as the Organs blow:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <pb n="4" facs="tcp:33515:4"/>
+            <lg>
+               <l>
+                  <hi>The Founder's Laws are ſo ſet up,</hi>
+               </l>
+               <l>
+                  <hi>That Scholars when they dine and ſup,</hi>
+               </l>
+               <l>
+                  <hi>Muſt bandy</hi> Latin <hi>to and fro:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The Tree which Wallnuts forth did ſhoot,</hi>
+               </l>
+               <l>
+                  <hi>Is voted down both branch and root;</hi>
+               </l>
+               <l>
+                  <hi>And where Bowls ran, there Turnips grow:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>Demyſhips <hi>which were</hi> bought <hi>and</hi> ſold,</l>
+               <l>
+                  <hi>Cannot</hi> now <hi>be had for</hi> Gold,</l>
+               <l>
+                  <hi>And Things call'd</hi> Merits currant <hi>goe:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>Fellowſhips <hi>eke are</hi> nothing worth</l>
+               <l>
+                  <hi>Which</hi> eightſcore Pieces <hi>did bring forth,</hi>
+               </l>
+               <l>
+                  <hi>And a</hi> Gratuity <hi>too, I trow:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A</hi> Bellyful <hi>now for a</hi> Feaſt <hi>muſt ſuffice,</hi>
+               </l>
+               <l>
+                  <hi>Whilſt by an Abatement of</hi> Plumbroth <hi>and</hi> Pyes</l>
+               <l>
+                  <hi>Men are taught to be Temperate:</hi> But <hi>yet we know</hi>
+               </l>
+               <l>
+                  <hi>That</hi> from the Beginning it was not So.</l>
+            </lg>
+            <pb n="5" facs="tcp:33515:4"/>
+            <lg>
+               <l>
+                  <hi>Depraved manners now muſt be</hi>
+               </l>
+               <l>
+                  <hi>Reform'd by Eaſter-Scrutiny,</hi>
+               </l>
+               <l>
+                  <hi>Where none muſt his Accuſer know:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>In time of Term 'tis lately ſaid</hi>
+               </l>
+               <l>
+                  <hi>That weekly Preachments muſt be made,</hi>
+               </l>
+               <l>
+                  <hi>Whether the Preacher will or no:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gold is now wreſted from the Fiſts</hi>
+               </l>
+               <l>
+                  <hi>Of all the late Spurroyalliſts</hi>
+               </l>
+               <l>
+                  <hi>Sent Pris'ners to the Tower, as though</hi>
+               </l>
+               <l>From the Beginning it had been So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The Grammar-School hath alſo cauſe</hi>
+               </l>
+               <l>
+                  <hi>To ſay New Lords do make new Laws;</hi>
+               </l>
+               <l>
+                  <hi>Though</hi> Busby's <hi>followers needs muſt know</hi>
+               </l>
+               <l>
+                  <hi>That</hi> from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Amongſt the other modern Faſhions,</hi>
+               </l>
+               <l>
+                  <hi>All men are brought to Diſputations,</hi>
+               </l>
+               <l>
+                  <hi>Both great and ſmall, from Top to Toe:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <pb n="6" facs="tcp:33515:5"/>
+            <lg>
+               <l>
+                  <hi>If a good</hi> Fellow <hi>be</hi> Maudlin <hi>drunk,</hi>
+               </l>
+               <l>
+                  <hi>Speak</hi> verba Brigoſa <hi>or keep a</hi> Punck,</l>
+               <l>
+                  <hi>He ſtraight muſt</hi> out of Commons <hi>goe:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If thereupon he make Appeals</hi>
+               </l>
+               <l>
+                  <hi>For having</hi> faſted <hi>all thoſe Meals,</hi>
+               </l>
+               <l>
+                  <hi>He never muſt have</hi> Commons <hi>moe:</hi>
+               </l>
+               <l>But from the Beginning it was not So.</l>
+            </lg>
+            <p>AND now, Sir, I hope you do not imagine that Satan's Journymen have in earneſt ſo farr befriended M<hi rend="sup">r</hi> 
+               <hi>Preſi<g ref="char:EOLhyphen"/>dent</hi> as to give you a perfect catalogue of the numerous Re<g ref="char:EOLhyphen"/>formations which he hath wrought; and which however ſto<g ref="char:EOLhyphen"/>mack't at by the Scandalous and incorrigible, are by Them that ſincerely love God and Goodneſs lookt upon with great kindneſs &amp; veneration, I will add, with Thankſgiving unto ſo Exemplary a <hi>Governor,</hi> who under God is the Author of them. To reckon up his Contrivances and Methods of ad<g ref="char:EOLhyphen"/>vancing the College Intereſt and honour, and the many ways he hath ſtudyed of promoting piety and learning within the walls he hath adorned with rich patterns of both, would make my Letter become a volume. That I be not ſo tedi<g ref="char:EOLhyphen"/>ous, let me deſire you to inform your ſelf as well of the Clemency as Juſtice which hath been ſhewn to D<hi rend="sup">r</hi> 
+               <hi>Yerbury,</hi> out of the Narrative that was printed for private uſe, (if at leaſt you can come by a Copy of it,) whilſt I give you no more Accompt of the Drunkard's Darling then will con<g ref="char:EOLhyphen"/>ſiſt with my own and the Carrier's haſte.</p>
+            <pb n="7" facs="tcp:33515:5"/>
+            <p>This overgrown Batchelor of Arts, nicknam'd a Doctor, having an early ambition to climb above his betters (the firſt temptation, wiſe men think, to his other crimes,) did diſloyally ſcrape an cringe to <hi>Cromwell</hi>'s Vicechancellor for a Degree, and (as if he had at the ſame inſtant bid defi<g ref="char:EOLhyphen"/>ance to authority, when he bow'd thus low to court-Uſur<g ref="char:EOLhyphen"/>pers,) at the election of the Preſident he earneſtly endea<g ref="char:EOLhyphen"/>vour'd to fruſtrate the Letters of the <hi>King,</hi> affirming to the face of the then Biſhop of <hi>London,</hi> that he could not vote for whom he thought <hi>worthieſt,</hi> (however <hi>ſworn</hi> ſo to do,) becauſe the <hi>King</hi> in thoſe letters had <hi>commanded</hi> him to do it. Yet ſo farr was the Preſident from loving <hi>Yerbury</hi> the leſs, that he ſeemed to favour him much the more. I do not mean the more for his Enmity to the <hi>King,</hi> but for op<g ref="char:EOLhyphen"/>poſing his Removal to <hi>Oxford,</hi> who had lately ſet up his Reſt in <hi>Kent.</hi> Inſomuch as the Preſident hath often ſaid, That <hi>if he had ever broken his Oath by not executing the Statutes,</hi> or <hi>by ſhewing partiality to any member of the Col<g ref="char:EOLhyphen"/>lege, Dr.</hi> Yerbury <hi>was the man, out of Lenity to whom he had ſo offended.</hi> I cannot give a better inſtance then in the ſeveral groſs Cheats and Defraudations, which in the Preſident's firſt Audit he could not chuſe but diſcover in Dr. <hi>Yerbury.</hi> For in a Bill (at one time) of above <hi>Ten pounds,</hi> he did not only give an <hi>unſtatutable</hi> Accompt, but an Accompt ſo <hi>ſadly Scandalous,</hi> that neither the <hi>Preſident</hi> Dr. <hi>Oliver,</hi> nor the <hi>Vice-Preſident</hi> Mr. <hi>Foreman,</hi> were able to write their <hi>Approbations.</hi> Which although Dr. <hi>Pierce</hi> who ſucceeded Dr. <hi>Oliver</hi> was <hi>not able not to obſerve</hi> in his very firſt entrance upon his Office, (which fortun'd to be in a time of Audit,) yet he was able to <hi>forgive</hi> it, <hi>and paſs it by,</hi> without compelling him to refund it, (as by Statute he ſhould have done,) for fear an Act of meer <hi>Juſtice</hi> ſhould
+<pb n="8" facs="tcp:33515:6"/>be miſtaken for <hi>Revenge,</hi> by being done upon a man who had been againſt him. Thus one crime in Dr. <hi>Yerbury</hi> had made it ſafe for him to commit many more. For, as then it did appear by another Bill (of <hi>nine pounds</hi> wanting <hi>thre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pence,</hi>) he had pocketed up the <hi>College mony,</hi> of which he gave <hi>no Accompt,</hi> yea he <hi>publickly confeſſed</hi> (when an <hi>Ac<g ref="char:EOLhyphen"/>compt</hi> was required of him) that he was utterly <hi>unable</hi> to give up <hi>any.</hi> In which caſe, notwithſtanding there was <hi>Fur<g ref="char:EOLhyphen"/>tum notabile,</hi> which according to Statute was to be puniſhed with <hi>Expulſion,</hi> beſides the reſtitution of <hi>ſo much mony;</hi> yet ſo tender was the Preſident of this unthankfull man's honour and ſafety too, ſo unwilling to be doing <hi>Cor<g ref="char:EOLhyphen"/>rective</hi> Juſtice immediately after his Inſtalment, eſpecially on a perſon who had oppos'd his being there, (ſuch was the benefit of offending againſt a Mercifull man, who took a great delight in forgiving Enemies,) that making the beſt of ſo bad a matter, he only made him make Reſtitution, not of <hi>all the whole Summe,</hi> but of <hi>leſs then half.</hi> Would you not think that ſo much goodneſs ſhould have led this Fel<g ref="char:EOLhyphen"/>low to better life? at leaſt to gratitude towards a Governor who had been ſo <hi>exceſsively ſparing</hi> to him? Indeed he pro<g ref="char:EOLhyphen"/>miſed no leſs when he proteſted his <hi>Amazement</hi> at ſo much Goodneſs. But what can be looked for from one who at once is a <hi>Cromwellian</hi> and an <hi>Italianized Doctor?</hi> Had I time to ſhew at large how he hath taken all occaſions to af<g ref="char:EOLhyphen"/>front and revile his obliging Governor, (to whom he ſwore due Reverence and Obedience;) how he hath all along con<g ref="char:EOLhyphen"/>ſpir'd with a Factious Party in the College, whom <hi>Thomas Goodwin</hi> left behind him <hi>unconverted to the King,</hi> and whom the <hi>King</hi> hath ſuffered there by his gracious <hi>Act of Obli<g ref="char:EOLhyphen"/>vion only;</hi> how, with <hi>them,</hi> he hath acted againſt the <hi>Wel<g ref="char:EOLhyphen"/>fare</hi> and <hi>Peace</hi> of that noble College, eſpecially for the ſup<g ref="char:EOLhyphen"/>porting of the <hi>Maudlintide Market,</hi> buying and ſelling of
+<pb n="9" facs="tcp:33515:6" rendition="simple:additions"/>Reſignations, and of Suffrages in Elections, (for the put<g ref="char:EOLhyphen"/>ting down of which this Preſident will be thank't in the next Generation, though he is envyed for it in this;) how he that charged good Subjects with diſloyalty, did ſcruple to vote againſt a Regicide, whom yet he baſely <hi>underboard</hi> had <hi>diſcovered</hi> to be ſuch; how he hath impudently <hi>boaſted</hi> of his <hi>Diſsimulation,</hi> confeſſed <hi>Slanders and Lyes</hi> which he was proud not to retract; how he ſhew'd himſelf <hi>void</hi> of <hi>common honeſty,</hi> by <hi>Embezelling</hi> the <hi>Revenue</hi> of that <hi>chari<g ref="char:EOLhyphen"/>table place,</hi> which had ſo long allow'd him <hi>bread,</hi> and yet was ſo immodeſt as to pretend he had a right to a <hi>place</hi> of <hi>Truſt;</hi> firſt contending for a <hi>Burſarſhip,</hi> to gratifie his <hi>Ava<g ref="char:EOLhyphen"/>rice;</hi> then for the office of a <hi>Vice-preſident,</hi> to ſtop the mouth of his <hi>Ambition;</hi> I ſay, had I time to enlarge on theſe, and on a very great number of other Crimes, which are as notorious as they are loathſome to ſuch as knew him in the College, you would admire at their Impudence who have diſhonour'd themſelves by his Commendations, and though you never had heard of his <hi>multiplied <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> yet you would need nothing more to make you perfectly con<g ref="char:EOLhyphen"/>vinc't, that there were <hi>too many cauſes</hi> of his <hi>Expulſion.</hi>
+            </p>
+            <p>Leaving him to repentance, and his Abettors to reproch, and you to make what uſe you pleaſe of this ſhort Intelli<g ref="char:EOLhyphen"/>gence, I crave the favour of your acquaintance, (at leaſt for his ſake, in our Zeal to whoſe cauſe we ſo well agree,) and your favorable leave to write my ſelf,</p>
+            <closer>
+               <signed>Your affectionate Servant <hi>J. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
